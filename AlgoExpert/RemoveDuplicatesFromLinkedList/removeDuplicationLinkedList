@@ -1,0 +1,23 @@
+class LinkedList:
+    def __init__(self, value):
+        self.value = value
+        self.next = None
+
+
+def removeDuplicatesFromLinkedList(linkedList):
+
+    node = linkedList
+
+    while(node.next != None):
+        if node.value == node.next.value:
+            temp = node.next.next
+            node.next = temp
+
+        else:
+            node = node.next
+            
+
+
+    return linkedList
+
+
