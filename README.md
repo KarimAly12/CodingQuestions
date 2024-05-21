@@ -1,6 +1,6 @@
-|   | Problem Name     | Website    | Solution                                                                                                                                                             |
-| - | ---------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ⭐ | Two Number Sum   | AlgoExpert |  https://github.com/KarimAly12/CodingQuestions/tree/main/AlgoExpert/TwoNumberSum|Python |
+|   | Problem Name     | Website    | Solution | Language|              
+| - | ---------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ⭐ | Two Number Sum   | AlgoExpert |  https://github.com/KarimAly12/CodingQuestions/tree/main/AlgoExpert/TwoNumberSum| Python |
 | ⭐ | Three Number Sum | AlgoExpert | https://github.com/KarimAly12/CodingQuestions/tree/main/AlgoExpert/ThreeNumberSum|Python |
 | ⭐ | Sorted Squared Array | AlgoeExpert | https://github.com/KarimAly12/CodingQuestions/tree/main/AlgoExpert/SortedSquaredArray |Python |
 | ⭐ | Tournament Winner | AlgoExpert |https://github.com/KarimAly12/CodingQuestions/tree/main/AlgoExpert/TournamentWinner |Python |
